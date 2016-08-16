@@ -2,6 +2,12 @@ package md.convertit.jocOlimp.domain;
 
 import java.util.Date;
 
+/**
+ * This calss represents a Course object
+ * @author Utilizator
+ *
+ */
+
 public class Atlet {
 	
 	private String numeAtlet;
